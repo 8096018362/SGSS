@@ -1,0 +1,133 @@
+
+	{"data1":
+		[
+			{
+				"heading":   "The distribution for ZPHSchool(Co-Ed) Telugu  Mediam",
+				"headers": ["School Topers order", "Name of the Donator", "Amount", "Name of the Student"],
+				"medium": [
+					{
+						"name": "1st Rank-SSC",
+						"donarName": "Sri. Sambu Nagesh Babu in the memory of his parents Smt&Sri  Sambu Ramulu Garu",
+						"amount": "Rs. 1500 + Memento",
+						"studentName": "C.Rajeshwari 8.7"
+					},
+					{ "name": "2nd - Rank -SSC", "donarName": "Sri. R.Gopal Raju in the memory of his father Sri. R.Krishnam Raju Garu", "amount": "Rs. 1000 + Memento", "studentName": "V.Pujitha 8.3" },
+					{ "name": "3rd- Rank-SSC", "donarName": "Sri T.Virupakshi Goud in the memory of his father Sri Tippayipally Narayana Goud", "amount": "Rs. 750 + Memento<br>Rs. 750 + Memento", "studentName": "C.Revathi 8.2<br>C.Mamatha 8.2" }
+				]
+			},
+			{
+				"heading": "The distribution for ZPHSchool(Co-Ed) English Mediam",
+				"headers": ["School Topers order", "Name of the Donator", "Amount", "Name of the Student"],
+				"medium": [
+					{
+						"name": "1st Rank-SSC",
+						"donarName": "Sri. S.Sathyanarayana Rao in the memory of his father Sri. Suguru Ranga Rao Garu",
+						"amount": "Rs. 1500 + Memento",
+						"studentName": "A.Praneetha 8.3"
+					},
+					{
+						"name": "2nd - Rank -SSC",
+						"donarName": "Sri. Vasanthapuram Swathi D/O/V.Kurumaiah Yadav in the memory of V.Angaraiah Yadav",
+						"amount": "Rs. 1000 + Memento",
+						"studentName": "T.Lokesh 8.0"
+
+					},
+					{
+						"name": "3rd-Rank-SSC",
+						"donarName": "Sri. Gunti Laxminarayana  in the memory of his father Gunti Venkataiah Garu",
+						"amount": "Rs. 750 + Memento",
+						"studentName": "Neha Sultana 7.8<br>Sabina Sultana 7.8"
+					}
+				]
+			},
+			{
+				"heading": "The distribution for ZPHSchool(Girls)",
+				"headers": ["School Topers order", "Name of the Donator", "Amount", "Name of the Student"],
+				"medium": [
+					{
+						"name": "1st Rank-SSC",
+						"donarName": "Sri. S.Sathyanarayana Rao in the memory of his father Sri. Suguru Ranga Rao Garu",
+						"amount": "Rs. 1500 + Memento",
+						"studentName": "D.Yadamma D/o Pedda narasimha"
+
+					},
+					{
+						"name": "2nd - Rank -SSC",
+						"donarName": "Sri. M.A.Wazid in the memory of his wife Smt. Saheena parveen Garu",
+						"amount": "Rs. 1000 + Memento",
+						"studentName": "N.Shailaja D/o Anjaneyulu"
+
+					},
+					{
+						"name": "3rd-Rank-SSC",
+						"donarName": "Sri T.Virupakshi Goud in the memory of his mother  Smt Tippayipally Govindamma",
+						"amount": "Rs. 750 + Memento",
+						"studentName": "T.Sravani D/o T.vishnu"
+
+					}
+				]
+			},
+			{
+				"heading": "The distribution for Intermediate College",
+				"headers": ["School Topers order", "Name of the Donator", "Amount", "Name of the Student"],
+				"medium": [
+					{
+						"name": "1st Rank-Inter",
+						"donarName": "Sri. G.Ramachandraiah in the memory of his mother Smt. Gaddameedhi Shamanthamma Garu",
+						"amount": "Rs. 1500 + Memento"
+
+					},
+					{
+						"name": "2nd - Rank -Inter",
+						"donarName": "Sri Thota Pentaiah in the memory of his son Sri. Thota Sampath Kumar Garu",
+						"amount": "Rs. 1000 + Memento",
+						"studentName": "K.Soni BPC 910/1000"
+
+					},
+					{
+						"name": "3rd - Rank -Inter",
+						"donarName": "Sri. G. Jagadish Goud in the memory of his brother Sri.Goda Narsan Goud Garu",
+						"amount": "Rs. 750 + Memento",
+						"studentName": "D.Shireesha CEC 839/1000"
+
+					},
+					{
+						"name": "State-1st",
+						"donarName": "R.Gopal Raju5000/- <br> S.Raghunandan Rao     2000/- <br>V.Kurumaiah Yadav 3000/- in the memory of his father  V. Angaraiah Yadav",
+						"amount": "Rs. 10000/- + Memento",
+						"studentName": "J.Maduri MPC 997/1000 <br>D/o Hymavathi granddaughter of Jangam Veerabhadraiah"
+
+					}
+
+				]
+			},
+			{
+				"heading": "The distribution for Primary School",
+				"headers": ["School Topers order", "Name of the Donator", "Amount", "Name of the Student"],
+				"medium": [
+					{
+						"name": "1st-Rank-Class",
+						"donarName": "Smt. K.Alivelu in the memory of his husband Late Sri. S.Brahmaiah",
+						"amount": "700 + Memento",
+						"studentName": "S.Rajitha 560/600"
+
+					},
+					{
+						"name": "2nd - Rank -Class",
+						"donarName": "Sri. G. Jagadish Goud in the memory of his father Sri.Goda Kashanna Goud Garu",
+						"amount": "600 + Memento",
+						"studentName": "M.Srividhya 489/600"
+
+					},
+					{
+						"name": "3rd-Rank-Class",
+						"donarName": "Sri.V.B.Raghu in the memory of his father Sri. Bukka Yella Swamy Garu",
+						"amount": "500+Memento",
+						"studentName": "T.Poojitha 484/600"
+
+					}
+				]
+			}
+
+		]
+	}
